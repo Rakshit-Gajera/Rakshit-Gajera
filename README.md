@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Profile Counter with Style -->
-<a href="https://github.com/Manas-Borisagar">
+<a href="https://github.com/RakshitOP">
   <img src="https://komarev.com/ghpvc/?username=Manas-Borisagar&label=PROFILE+STALKERS&color=667eea&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
 </a>
 
@@ -24,9 +24,9 @@
 
 <!-- Social Links - Sleek Pills -->
 <a href="https://maanas-dev.me"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-1a1a2e?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/manas-borisagar-202925321"><img src="https://img.shields.io/badge/💼_LINKEDIN-1a1a2e?style=for-the-badge&logoColor=white"/></a>
-<a href="https://instagram.com/maanas_18"><img src="https://img.shields.io/badge/📸_INSTAGRAM-1a1a2e?style=for-the-badge&logoColor=white"/></a>
-<a href="mailto:maanas.builds@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-1a1a2e?style=for-the-badge&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rakshit-gajera"><img src="https://img.shields.io/badge/💼_LINKEDIN-1a1a2e?style=for-the-badge&logoColor=white"/></a>
+<a href="https://instagram.com/rakshit__gajera"><img src="https://img.shields.io/badge/📸_INSTAGRAM-1a1a2e?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:rakshit.vibecodes@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-1a1a2e?style=for-the-badge&logoColor=white"/></a>
 
 </div>
 
@@ -34,18 +34,17 @@
 
 <br/>
 
-## 🧬 `sudo apt-get install manas`
+## 🧬 `sudo apt-get install rakshit`
 
 ```yaml
-name: Manas Borisagar
+name: Rakshit Gajera
 location: India 🇮🇳
 current_mission: Converting caffeine into production-ready code
 superpower: Making pixels dance to my tunes
-google_rank: "#1 for 'Manas Borisagar' (yeah, I SEO'd myself)"
+google_rank: "#1 for 'Rakshit Gajera' (yeah, I SEO'd myself)"
 
 personality:
   - "Writes 'console.log' for debugging... like a true professional 🎭"
-  - "Commits at 3 AM with message: 'fixed stuff' 🌙"  
   - "Has 47 browser tabs open, uses only 3 📑"
   - "Says 'it works on my machine' with confidence 💪"
 
@@ -114,32 +113,32 @@ fun_facts:
 <b>Personal Command Center</b><br/>
 <sub>My digital home showcasing the journey</sub><br/><br/>
 <code>React</code> <code>Animations</code> <code>Modern UI</code><br/><br/>
-<a href="https://maanas-dev.me"><img src="https://img.shields.io/badge/EXPLORE→-667eea?style=flat-square&logoColor=white"/></a>
+<a href="https://rakshit-codes.netlify.app"><img src="https://img.shields.io/badge/EXPLORE→-667eea?style=flat-square&logoColor=white"/></a>
 </td>
 
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/🏭-MG_MICRONS-764ba2?style=for-the-badge&labelColor=1a1a2e"/><br/><br/>
-<b>Industrial Excellence</b><br/>
+<img src=""/><br/><br/>
+<!-- <b>Industrial Excellence</b><br/>
 <sub>Professional corporate web presence</sub><br/><br/>
-<code>Business</code> <code>Corporate</code> <code>Responsive</code><br/><br/>
-<a href="https://mg-microns.netlify.app"><img src="https://img.shields.io/badge/EXPLORE→-764ba2?style=flat-square&logoColor=white"/></a>
+<code>Business</code> <code>Corporate</code> <code>Responsive</code><br/><br/> -->
+<a href=""><img src="https://img.shields.io/badge/EXPLORE→-764ba2?style=flat-square&logoColor=white"/></a>
 </td>
 
 </tr>
 <tr>
 
-<td align="center" width="50%">
+<!-- <td align="center" width="50%">
 <img src="https://img.shields.io/badge/🚗-DRIVENOX-f093fb?style=for-the-badge&labelColor=1a1a2e"/><br/><br/>
 <b>Automotive Excellence</b><br/>
 <sub>Where speed meets stunning design</sub><br/><br/>
 <code>Interactive</code> <code>Dynamic</code> <code>Modern</code><br/><br/>
 <a href="https://drivenox.netlify.app"><img src="https://img.shields.io/badge/EXPLORE→-f093fb?style=flat-square&logoColor=white"/></a>
-</td>
+</td> -->
 
-<td align="center" width="50%">
+<!-- <td align="center" width="50%">
 <img src="https://img.shields.io/badge/🛒-ONLINE_STORE-667eea?style=for-the-badge&labelColor=1a1a2e"/><br/><br/>
 <b>E-Commerce Platform</b><br/>
-<sub>Shop. Cart. Checkout. Done.</sub><br/><br/>
+<sub>Shop. Cart. Checkout. Done.</su  b><br/><br/>
 <code>E-Commerce</code> <code>Cart</code> <code>API</code><br/><br/>
 <a href="https://fakestore-du.netlify.app"><img src="https://img.shields.io/badge/EXPLORE→-667eea?style=flat-square&logoColor=white"/></a>
 </td>
@@ -153,7 +152,7 @@ fun_facts:
 <sub>Ancient wisdom, modern interface</sub><br/><br/>
 <code>Content</code> <code>Elegant</code> <code>Spiritual</code><br/><br/>
 <a href="https://bhagavadgita-du.netlify.app"><img src="https://img.shields.io/badge/EXPLORE→-764ba2?style=flat-square&logoColor=white"/></a>
-</td>
+</td> -->
 
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/📊-ATTENDANCE_TRACKER-f093fb?style=for-the-badge&labelColor=1a1a2e"/><br/><br/>
@@ -166,13 +165,13 @@ fun_facts:
 </tr>
 <tr>
 
-<td align="center" colspan="2">
+<!-- <td align="center" colspan="2">
 <img src="https://img.shields.io/badge/📄-INVOICE_GENERATOR-667eea?style=for-the-badge&labelColor=1a1a2e"/><br/><br/>
 <b>Professional Invoice Tool</b><br/>
 <sub>Create beautiful invoices in seconds</sub><br/><br/>
 <code>Business Tool</code> <code>PDF Gen</code> <code>Clean UI</code><br/><br/>
 <a href="https://invoice-manas.netlify.app"><img src="https://img.shields.io/badge/EXPLORE→-667eea?style=flat-square&logoColor=white"/></a>
-</td>
+</td> -->
 
 </tr>
 </table>
