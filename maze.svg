@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <style>
+    .maze-bg { fill: #0d1117; }
+    .wall { stroke: #667eea; stroke-width: 2; fill: none; }
+    .path { fill: none; stroke: #30363d; stroke-width: 1; stroke-dasharray: 2,2; }
+    .character {
+      fill: #f093fb;
+      animation: wander 12s infinite ease-in-out;
+    }
+    .glow {
+      fill: #764ba2;
+      opacity: 0.5;
+      animation: wander 12s infinite ease-in-out, pulse 1s infinite ease-in-out;
+    }
+    @keyframes wander {
+      0% { transform: translate(30px, 30px); }
+      10% { transform: translate(70px, 30px); }
+      20% { transform: translate(70px, 70px); }
+      30% { transform: translate(130px, 70px); }
+      40% { transform: translate(130px, 110px); }
+      50% { transform: translate(190px, 110px); }
+      60% { transform: translate(190px, 150px); }
+      70% { transform: translate(250px, 150px); }
+      80% { transform: translate(250px, 70px); }
+      90% { transform: translate(330px, 70px); }
+      100% { transform: translate(30px, 30px); }
+    }
+    @keyframes pulse {
+      0%, 100% { r: 12; opacity: 0.3; }
+      50% { r: 16; opacity: 0.6; }
+    }
+    .title { 
+      fill: #667eea; 
+      font-family: 'Segoe UI', Arial, sans-serif; 
+      font-size: 12px; 
+      font-weight: bold;
+    }
+    .subtitle {
+      fill: #c9d1d9;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 9px;
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect class="maze-bg" width="400" height="200" rx="10"/>
+  
+  <!-- Maze Border -->
+  <rect x="10" y="10" width="380" height="180" rx="5" stroke="#667eea" stroke-width="2" fill="none"/>
+  
+  <!-- Maze Walls - Horizontal -->
+  <line class="wall" x1="50" y1="50" x2="110" y2="50"/>
+  <line class="wall" x1="150" y1="50" x2="230" y2="50"/>
+  <line class="wall" x1="270" y1="50" x2="350" y2="50"/>
+  
+  <line class="wall" x1="30" y1="90" x2="70" y2="90"/>
+  <line class="wall" x1="110" y1="90" x2="170" y2="90"/>
+  <line class="wall" x1="210" y1="90" x2="290" y2="90"/>
+  <line class="wall" x1="330" y1="90" x2="370" y2="90"/>
+  
+  <line class="wall" x1="50" y1="130" x2="130" y2="130"/>
+  <line class="wall" x1="170" y1="130" x2="210" y2="130"/>
+  <line class="wall" x1="250" y1="130" x2="310" y2="130"/>
+  
+  <line class="wall" x1="90" y1="170" x2="150" y2="170"/>
+  <line class="wall" x1="190" y1="170" x2="270" y2="170"/>
+  <line class="wall" x1="310" y1="170" x2="350" y2="170"/>
+  
+  <!-- Maze Walls - Vertical -->
+  <line class="wall" x1="50" y1="30" x2="50" y2="50"/>
+  <line class="wall" x1="110" y1="50" x2="110" y2="90"/>
+  <line class="wall" x1="150" y1="30" x2="150" y2="50"/>
+  <line class="wall" x1="230" y1="50" x2="230" y2="90"/>
+  <line class="wall" x1="290" y1="50" x2="290" y2="90"/>
+  <line class="wall" x1="350" y1="30" x2="350" y2="50"/>
+  
+  <line class="wall" x1="70" y1="90" x2="70" y2="130"/>
+  <line class="wall" x1="130" y1="90" x2="130" y2="130"/>
+  <line class="wall" x1="170" y1="90" x2="170" y2="130"/>
+  <line class="wall" x1="210" y1="90" x2="210" y2="130"/>
+  <line class="wall" x1="250" y1="90" x2="250" y2="130"/>
+  <line class="wall" x1="330" y1="90" x2="330" y2="130"/>
+  
+  <line class="wall" x1="50" y1="130" x2="50" y2="170"/>
+  <line class="wall" x1="150" y1="130" x2="150" y2="170"/>
+  <line class="wall" x1="190" y1="130" x2="190" y2="170"/>
+  <line class="wall" x1="270" y1="130" x2="270" y2="170"/>
+  <line class="wall" x1="310" y1="130" x2="310" y2="190"/>
+  
+  <!-- Wandering Character with Glow -->
+  <circle class="glow" r="12"/>
+  <circle class="character" r="6"/>
+  
+  <!-- Character trail effect -->
+  <circle class="glow" r="8" style="animation-delay: -0.3s; opacity: 0.2;"/>
+  <circle class="glow" r="6" style="animation-delay: -0.6s; opacity: 0.1;"/>
+  
+</svg>
