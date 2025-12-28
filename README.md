@@ -17,7 +17,7 @@
 
   <!-- Profile Counter with Style -->
   <a href="https://github.com/RakshitOP">
-    <img src="https://komarev.com/ghpvc/?username=Manas-Borisagar&label=PROFILE+STALKERS&color=667eea&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=RakshitOP&label=PROFILE+STALKERS&color=667eea&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
   </a>
 
   <br/><br/>
@@ -213,7 +213,7 @@ export default rakshit;
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
 </p>
 
-<a href="https://theinvoicegenerator.netlify.app"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-11998e?style=for-the-badge"/></a>
+<a hr ef="https://theinvoicegenerator.netlify.app"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-11998e?style=for-the-badge"/></a>
 
 <br/><br/>
 
@@ -228,25 +228,13 @@ export default rakshit;
   <div align="center">
 
   <!-- Stats Grid -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Manas-Borisagar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="GitHub Stats"/>
-  <img width="400" src="https://github-readme-streak-stats-eight-rho.vercel.app/?user=Manas-Borisagar&theme=midnight-purple&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&border=30363d&border_radius=15&dates=c9d1d9" alt="GitHub Streak"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RakshitOP&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="GitHub Stats"/>
+  <img width="400" src="https://github-readme-streak-stats-eight-rho.vercel.app/?user=RakshitOP&theme=midnight-purple&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&border=30363d&border_radius=15&dates=c9d1d9" alt="GitHub Streak"/>
 
   <br/>
 
   <!-- Languages Card with Custom Layout -->
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Borisagar&layout=donut-vertical&langs_count=6&theme=midnight-purple&border_radius=15&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
-
-  </div>
-
-  <br/>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-  ## 🏆 Achievement Unlocked
-
-  <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Manas-Borisagar&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitOP&layout=donut-vertical&langs_count=6&theme=midnight-purple&border_radius=15&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
 
   </div>
 
@@ -258,7 +246,7 @@ export default rakshit;
 
   <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Borisagar&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=764ba2&hide_border=true&custom_title=📈%20My%20Contribution%20Pulse&radius=16" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakshitOP&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=764ba2&hide_border=true&custom_title=📈%20My%20Contribution%20Pulse&radius=16" width="100%" alt="Activity Graph"/>
 
   </div>
 
@@ -270,10 +258,8 @@ export default rakshit;
 
   <div align="center">
 
-  <!-- 2048 Game -->
-  <a href="https://play2048.co/">
-    <img src="https://img.shields.io/badge/🎯_Play_2048_With_Me!-667eea?style=for-the-badge&labelColor=1a1a2e" alt="2048"/>
-  </a>
+  <!-- Animated Maze -->
+  <img src="./maze.svg" alt="Wandering Maze" width="500"/>
 
   <br/><br/>
 
