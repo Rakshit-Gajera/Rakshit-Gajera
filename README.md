@@ -16,8 +16,8 @@
   <br/><br/>
 
   <!-- Profile Counter with Style -->
-  <a href="https://github.com/RakshitOP">
-    <img src="https://komarev.com/ghpvc/?username=RakshitOP&label=PROFILE+STALKERS&color=667eea&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
+  <a href="https://github.com/Rakshit-Gajera">
+    <img src="https://komarev.com/ghpvc/?username=Rakshit-Gajera&label=PROFILE+STALKERS&color=667eea&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
   </a>
 
   <br/><br/>
@@ -223,30 +223,12 @@ export default rakshit;
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
-  ## 📊 The Numbers Game
-
-  <div align="center">
-
-  <!-- Stats Grid -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RakshitOP&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="GitHub Stats"/>
-  <img width="400" src="https://github-readme-streak-stats-eight-rho.vercel.app/?user=RakshitOP&theme=midnight-purple&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&border=30363d&border_radius=15&dates=c9d1d9" alt="GitHub Streak"/>
-
-  <br/>
-
-  <!-- Languages Card with Custom Layout -->
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitOP&layout=donut-vertical&langs_count=6&theme=midnight-purple&border_radius=15&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
-
-  </div>
-
-  <br/>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
+ 
   ## 📈 Code Heartbeat
 
   <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakshitOP&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=764ba2&hide_border=true&custom_title=📈%20My%20Contribution%20Pulse&radius=16" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit-Gajera&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=764ba2&hide_border=true&custom_title=📈%20My%20Contribution%20Pulse&radius=16" width="100%" alt="Activity Graph"/>
 
   </div>
 
@@ -254,19 +236,16 @@ export default rakshit;
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
-  ## 🎮 Let's Play!
 
-  <div align="center">
-
-  <!-- Animated Maze -->
-  <img src="./maze.svg" alt="Wandering Maze" width="500"/>
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
   <br/><br/>
 
-  <!-- Spotify Currently Playing (You can set this up) -->
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5bvo6bxxkxmxhfsgp4hcnbqcu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=667eea&bar_color_cover=true" alt="Spotify" />
 
-  </div>
 
   <br/>
 
@@ -328,7 +307,7 @@ export default rakshit;
 
   <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Thanks+for+scrolling+this+far!+🙏;Star+⭐+my+repos+if+you+liked+what+you+saw!;Let's+connect+and+build+something+amazing!+🚀" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+this+far!;Star+my+repos+if+you+liked+what+you+saw!;Let's+connect+and+build+something+amazing!" alt="Footer" />
 
   <br/>
 
