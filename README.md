@@ -263,7 +263,7 @@ export default rakshit;
   <table>
   <tr>
   <td align="center">
-  <a href="https://rakshit-codes.netlify.app">
+  <a href="https://rakshit-codes.me">
   <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
   </td>
