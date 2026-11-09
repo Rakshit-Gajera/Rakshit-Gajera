@@ -14,7 +14,7 @@
   <img src="assets/about.svg" width="100%" alt="Rakshit Gajera. Full Stack Developer and C programming Teaching Assistant at Darshan University, based in Rajkot, Gujarat, India. Focus: web and mobile apps, from database schema to deployment. Frontend: React, TypeScript, Next.js, Three.js. Backend: Node.js, Express, NestJS, Supabase. Data: PostgreSQL, MongoDB, MySQL, Redis. Mobile: Flutter, React Native, Android.">
 </picture>
 
-<img src="assets/head-client.webp" width="100%" alt="Featured work: live products, used by real people every day.">
+<img src="assets/head-client.webp" width="100%" alt="Featured work: live products, used by people every day.">
 
 <a href="https://zorko-somu.cafe/">
   <picture>
