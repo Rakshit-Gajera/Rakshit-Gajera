@@ -9,9 +9,10 @@ import math
 import os
 import random
 import urllib.request
-from datetime import date
+from datetime import datetime, timedelta, timezone
 
 USER = "Rakshit-Gajera"
+IST = timezone(timedelta(hours=5, minutes=30))
 HERE = os.path.dirname(os.path.abspath(__file__))
 ASSETS = os.path.join(HERE, "..", "assets")
 QUERY = """query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}}}"""
@@ -27,7 +28,7 @@ def fetch():
         data = json.load(r)
     cal = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
     days = [d for w in cal["weeks"] for d in w["contributionDays"]]
-    days = [(d["date"], d["contributionCount"]) for d in days if d["date"] <= date.today().isoformat()]
+    days = [(d["date"], d["contributionCount"]) for d in days if d["date"] <= datetime.now(IST).date().isoformat()]
     return cal["totalContributions"], days
 
 

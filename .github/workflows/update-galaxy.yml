@@ -2,7 +2,7 @@ name: Update contribution galaxy
 
 on:
   schedule:
-    - cron: "30 19 * * *"
+    - cron: "12 * * * *"
   workflow_dispatch:
 
 permissions:
