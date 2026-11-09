@@ -46,6 +46,13 @@
 
 <img src="assets/head-play.webp" width="100%" alt="The Playground: things I built to experiment, learn and test my skills.">
 
+<a href="https://credify-webapp.vercel.app/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-credify-m.webp">
+    <img src="assets/project-credify.webp" width="100%" alt="Credify: predicts loan default risk through a live API, using a Logistic Regression model trained on 255,000+ loan records. Built with React, Three.js, Flask and scikit-learn.">
+  </picture>
+</a>
+
 <a href="https://rangilu-rajkot.pages.dev"><img src="assets/play-rangilu.webp" width="49%" alt="Rangilu Rajkot: open-world browser game of Rajkot, built with Three.js. Play it live."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-tv-scratch.webp" width="49%" alt="TV Scratch: two Android apps for drawing on your TV from your phone. APK on the portfolio."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-educore.webp" width="49%" alt="EduCore Lab Management: university lab system built with Next.js."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-placement.webp" width="49%" alt="Placement Prep: exam prep app built with Flutter and .NET."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-pos.webp" width="49%" alt="Mobile POS and Billing: offline billing app built with Flutter. APK on the portfolio."></a> <a href="https://github.com/Rakshit-Gajera/DU-Student"><img src="assets/play-du-student.webp" width="49%" alt="DU Student App and Admin: full stack project built with Flutter and Node. View the code."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-flux.webp" width="49%" alt="FLUX Wallpapers: website and Android app built with React. APK on the portfolio."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-music.webp" width="49%" alt="My Music: streaming app built with React Native."></a> <a href="https://github.com/Rakshit-Gajera/SMMS"><img src="assets/play-smms.webp" width="49%" alt="Student Mentoring System: college project built with Express. View the code."></a> <a href="https://the-imdb-clone.netlify.app/"><img src="assets/play-imdb.webp" width="49%" alt="IMDb Clone: UI practice built with React. Open it live."></a> <a href="https://the-flipcart-clone.netlify.app/"><img src="assets/play-flipkart.webp" width="49%" alt="Flipkart Clone: e-commerce practice built with React. Open it live."></a> <a href="https://the-diversed-india.netlify.app/"><img src="assets/play-india.webp" width="49%" alt="Incredible India: static site built with HTML and CSS. Open it live."></a>
 
 <picture>
