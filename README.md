@@ -58,6 +58,11 @@
   <img src="assets/galaxy.svg" width="100%" alt="My GitHub contributions over the last 12 months, drawn as a spiral galaxy where each dot is one day.">
 </picture>
 
-<a href="https://rakshit-codes.me/#contact"><img src="assets/footer.webp" width="100%" alt="Got a messy idea? Let's make it fast, working and enjoyable. Email rakshit.vibecodes@gmail.com"></a>
+<a href="https://rakshit-codes.me/#contact">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/footer-m.webp">
+    <img src="assets/footer.webp" width="100%" alt="Got a messy idea? Let's make it fast, working and enjoyable. Email rakshit.vibecodes@gmail.com">
+  </picture>
+</a>
 
 </div>
