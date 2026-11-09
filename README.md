@@ -1,318 +1,63 @@
-  <div align="center">
-
-  <!-- 🎄 Festive Gradient Header with 3D Effect -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=150&section=header&text=⚡%20RAKSHIT%20GAJERA%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=ffffff&strokeWidth=1" alt="Rakshit Gajera Banner"/>
-
-  <!-- Glitch Effect Name -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Rakshit+Gajera" alt="Rakshit Gajera" />
-
-  <br/>
-
-  <!-- Animated Status Badges -->
-  <img src="https://img.shields.io/badge/Status-Crafting_Code-667eea?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Wizardry-764ba2?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Vibes-Always_Shipping-f093fb?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e"/>
-
-  <br/><br/>
-
-  <!-- Profile Counter with Style -->
-  <a href="https://github.com/Rakshit-Gajera">
-    <img src="https://komarev.com/ghpvc/?username=Rakshit-Gajera&label=PROFILE+STALKERS&color=667eea&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- Social Links - Sleek Pills -->
-  <a href="https://rakshit-codes.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-1a1a2e?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/rakshit-gajera"><img src="https://img.shields.io/badge/💼_LINKEDIN-1a1a2e?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://instagram.com/rakshit__gajera"><img src="https://img.shields.io/badge/📸_INSTAGRAM-1a1a2e?style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:rakshit.vibecodes@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-1a1a2e?style=for-the-badge&logoColor=white"/></a>
-
-  </div>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-  <br/>
-
-## 🧬 `npm install @dev/rakshit --save`
-
-```javascript
-const rakshit = {
-  name: "Rakshit Gajera",
-  title: "Full Stack Developer & Digital Craftsman",
-  location: "India 🇮🇳",
-  
-  expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Three.js"],
-    backend: ["Node.js", "Express", "NestJS", "Python"],
-    philosophy: "Clean code is not written by following rules. It's written by obsessing over quality."
-  },
-  
-  currentlyBuilding: [
-    "Scalable web applications that users love",
-    "Interactive experiences that leave impressions",
-    "Solutions that solve real-world problems"
-  ],
-  
-  achievements: {
-    googleRank: "#1 for 'Rakshit Gajera' 🏆",
-    projectsDelivered: "10+",
-    coffeeConsumed: "∞ cups ☕"
-  },
-  
-  lifePhilosophy: [
-    "🎯 Ship fast, iterate faster",
-    "🧠 Learn something new every single day",
-    "🤝 Collaborate > Compete",
-    "✨ Attention to detail is everything"
-  ],
-  
-  funFact: "I debug with strategic console.logs and zero regrets 🎭"
-};
-
-export default rakshit;
-```
-
-  <br/>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-  ## ⚔️ Weapons of Mass Creation
-
-  <div align="center">
-
-  <table>
-  <tr>
-  <td align="center" width="25%">
-
-  ### 💻 Programming Languages
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" width="48" height="48"/><br/>
-  <sub>*Speaking in tongues*</sub>
-
-  </td>
-  <td align="center" width="25%">
-
-  ### 📚 Libraries
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark" title="Angular" alt="Angular" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=jquery&theme=dark" title="jQuery" alt="jQuery" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" title="Three.js" alt="Three.js" width="48" height="48"/><br/>
-  <sub>*Building blocks of magic*</sub>
-
-  </td>
-  <td align="center" width="25%">
-
-  ### 🚀 Frameworks
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" alt="Express.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJS" alt="NestJS" width="48" height="48"/><br/>
-  <sub>*Powerhouses of productivity*</sub>
-
-  </td>
-  <td align="center" width="25%">
-
-  ### 🛠️ Developer Tools
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite" width="48" height="48"/><br/>
-  <sub>*Tools of the trade*</sub>
-
-  </td>
-  </tr>
-  </table>
-
-  </div>
-
-  <br/>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-<br/>
-
-<!-- PROJECT 1: PORTFOLIO -->
-
-<a href="https://rakshit-codes.netlify.app">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=120&text=🏠%20PORTFOLIO&fontSize=40&fontColor=ffffff&desc=My%20Digital%20Home%20|%20Modern%20UI%20|%20Animations&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
+<a href="https://rakshit-codes.me">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/hero-m.webp">
+    <img src="assets/hero.webp" width="100%" alt="Rakshit Gajera, full stack developer from Rajkot, India. I turn messy ideas into fast, working web and mobile apps that people actually enjoy using. Open to opportunities.">
+  </picture>
 </a>
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-</p>
+<a href="https://rakshit-codes.me"><img src="assets/link-portfolio.webp" height="44" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/rakshit-gajera"><img src="assets/link-linkedin.webp" height="44" alt="LinkedIn"></a> <a href="https://github.com/Rakshit-Gajera"><img src="assets/link-github.webp" height="44" alt="GitHub"></a> <a href="https://x.com/Rakshit_OP1"><img src="assets/link-x.webp" height="44" alt="X"></a> <a href="https://www.instagram.com/rakshit__gajera"><img src="assets/link-instagram.webp" height="44" alt="Instagram"></a> <a href="mailto:rakshit.vibecodes@gmail.com"><img src="assets/link-email.webp" height="44" alt="Email"></a>
 
-<a href="https://rakshit-codes.netlify.app"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-667eea?style=for-the-badge"/></a>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/about-m.svg">
+  <img src="assets/about.svg" width="100%" alt="Rakshit Gajera. Full Stack Developer and C programming Teaching Assistant at Darshan University, based in Rajkot, Gujarat, India. Focus: web and mobile apps, from database schema to deployment. Frontend: React, TypeScript, Next.js, Three.js. Backend: Node.js, Express, NestJS, Supabase. Data: PostgreSQL, MongoDB, MySQL, Redis. Mobile: Flutter, React Native, Android.">
+</picture>
 
-<br/><br/><br/>
+<img src="assets/head-client.webp" width="100%" alt="Featured work: live products, used by real people every day.">
 
-<!-- PROJECT 2: E-COMMERCE -->
-
-<a href="https://flipcart-fakestore.netlify.app">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=120&text=🛒%20FLIPKART%20CLONE&fontSize=40&fontColor=ffffff&desc=E-Commerce%20|%20Cart%20System%20|%20API%20Integration&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
+<a href="https://zorko-somu.cafe/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-zorko-m.webp">
+    <img src="assets/project-zorko.webp" width="100%" alt="Zorko Somu Cafe: food ordering PWA and desktop POS. Students pre-order and pay by UPI with live tracking, while staff run an offline-capable counter POS that prints kitchen tickets.">
+  </picture>
 </a>
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+<a href="https://typingspeedtestapp.com/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-typing-m.webp">
+    <img src="assets/project-typing.webp" width="100%" alt="Typing Speed Test for ASWDC, Darshan University. Brought the 5M+ download typing app to the web for government exam aspirants, with live WPM in 17+ languages and OCR paper exams.">
+  </picture>
+</a>
 
-<a href="https://flipcart-fakestore.netlify.app"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-764ba2?style=for-the-badge"/></a>
-
-<br/><br/><br/>
-
-<!-- PROJECT 3: ATTENDANCE TRACKER -->
+<a href="https://pariwedsdeep.pages.dev">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-shubh-vivah-m.webp">
+    <img src="assets/project-shubh-vivah.webp" width="100%" alt="Shubh Vivah: a painted digital wedding invitation opened from WhatsApp, with scratch-to-reveal dates, add to calendar, a live countdown and RSVPs.">
+  </picture>
+</a>
 
 <a href="https://du-attendance.pages.dev">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=120&text=📊%20ATTENDANCE%20TRACKER&fontSize=40&fontColor=ffffff&desc=Smart%20Analytics%20|%20Cloud%20Sync%20|%20Real-time&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-du-attendance-m.webp">
+    <img src="assets/project-du-attendance.webp" width="100%" alt="DU Smart Attendance: replaces paper roll calls with voice-automated calling and hand-gesture recognition, saving faculty 10+ minutes per class.">
+  </picture>
 </a>
 
-<p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-</p>
+<img src="assets/head-play.webp" width="100%" alt="The Playground: things I built to experiment, learn and test my skills.">
 
-<a href="https://du-attendance.pages.dev"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-f093fb?style=for-the-badge"/></a>
+<a href="https://rangilu-rajkot.pages.dev"><img src="assets/play-rangilu.webp" width="49%" alt="Rangilu Rajkot: open-world browser game of Rajkot, built with Three.js. Play it live."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-tv-scratch.webp" width="49%" alt="TV Scratch: two Android apps for drawing on your TV from your phone. APK on the portfolio."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-educore.webp" width="49%" alt="EduCore Lab Management: university lab system built with Next.js."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-placement.webp" width="49%" alt="Placement Prep: exam prep app built with Flutter and .NET."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-pos.webp" width="49%" alt="Mobile POS and Billing: offline billing app built with Flutter. APK on the portfolio."></a> <a href="https://github.com/Rakshit-Gajera/DU-Student"><img src="assets/play-du-student.webp" width="49%" alt="DU Student App and Admin: full stack project built with Flutter and Node. View the code."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-flux.webp" width="49%" alt="FLUX Wallpapers: website and Android app built with React. APK on the portfolio."></a> <a href="https://rakshit-codes.me/#projects"><img src="assets/play-music.webp" width="49%" alt="My Music: streaming app built with React Native."></a> <a href="https://github.com/Rakshit-Gajera/SMMS"><img src="assets/play-smms.webp" width="49%" alt="Student Mentoring System: college project built with Express. View the code."></a> <a href="https://the-imdb-clone.netlify.app/"><img src="assets/play-imdb.webp" width="49%" alt="IMDb Clone: UI practice built with React. Open it live."></a> <a href="https://the-flipcart-clone.netlify.app/"><img src="assets/play-flipkart.webp" width="49%" alt="Flipkart Clone: e-commerce practice built with React. Open it live."></a> <a href="https://the-diversed-india.netlify.app/"><img src="assets/play-india.webp" width="49%" alt="Incredible India: static site built with HTML and CSS. Open it live."></a>
 
-<br/><br/><br/>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stack-m.svg">
+  <img src="assets/stack.svg" width="100%" alt="Tech stack orbiting a black hole: React, TypeScript, JavaScript, Next.js, Tailwind CSS, Three.js, Node.js, Express, NestJS, PostgreSQL, MongoDB, MySQL, Redis, Prisma, Supabase, Flutter, Expo, Android, Electron, Firebase, Docker, Linux, Git, GitHub Actions, Cloudflare, Figma, Python, Java, C and C++.">
+</picture>
 
-<!-- PROJECT 4: IMDB CLONE -->
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/galaxy-m.svg">
+  <img src="assets/galaxy.svg" width="100%" alt="My GitHub contributions over the last 12 months, drawn as a spiral galaxy where each dot is one day.">
+</picture>
 
-<a href="https://imdbpro-clone.netlify.app">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=120&text=🎬%20IMDB%20CLONE&fontSize=40&fontColor=ffffff&desc=Movie%20Database%20|%20Search%20|%20Ratings&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
-</a>
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TMDB_API-01D277?style=flat-square&logo=themoviedatabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-</p>
-
-<a href="https://imdbpro-clone.netlify.app"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-f5af19?style=for-the-badge"/></a>
-
-<br/><br/><br/>
-
-<!-- PROJECT 5: INVOICE GENERATOR -->
-
-<a href="https://theinvoicegenerator.netlify.app">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=120&text=📄%20INVOICE%20GENERATOR&fontSize=40&fontColor=ffffff&desc=Create%20Invoices%20|%20PDF%20Export%20|%20Professional&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
-</a>
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/PDF_Generation-E34F26?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-</p>
-
-<a hr ef="https://theinvoicegenerator.netlify.app"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-11998e?style=for-the-badge"/></a>
-
-<br/><br/>
+<a href="https://rakshit-codes.me/#contact"><img src="assets/footer.webp" width="100%" alt="Got a messy idea? Let's make it fast, working and enjoyable. Email rakshit.vibecodes@gmail.com"></a>
 
 </div>
-
-  <br/>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
- 
-  ## 📈 Code Heartbeat
-
-  <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit-Gajera&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=764ba2&hide_border=true&custom_title=📈%20My%20Contribution%20Pulse&radius=16" width="100%" alt="Activity Graph"/>
-
-  </div>
-
-  <br/>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-  <br/><br/>
-
-
-
-  <br/>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-  ## 🤝 Let's Build Something Epic!
-
-  <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=%22I+don't+just+write+code...;I+architect+digital+dreams.%22" alt="Quote" />
-
-  <br/>
-
-  <!-- Contact Cards -->
-  <table>
-  <tr>
-  <td align="center">
-  <a href="https://rakshit-codes.me">
-  <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=safari&logoColor=white"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://linkedin.com/in/rakshit-gajera">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://instagram.com/rakshit__gajera">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="mailto:rakshit.vibecodes@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  </td>
-  </tr>
-  </table>
-
-  <br/>
-
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%27s%20bad.&author=Cory%20House" alt="Dev Quote"/>
-
-  <br/><br/>
-
-  <!-- Fun Metrics -->
-  <img src="https://img.shields.io/badge/⭐_Stars_Given-∞-667eea?style=flat-square&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/☕_Coffees_Consumed-9999+-764ba2?style=flat-square&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/🐛_Bugs_Fixed-Countless-f093fb?style=flat-square&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/🚀_Projects_Shipped-Many-667eea?style=flat-square&labelColor=1a1a2e"/>
-
-  </div>
-
-  <br/>
-
-  <!-- Cool Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
-
-  <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+this+far!;Star+my+repos+if+you+liked+what+you+saw!;Let's+connect+and+build+something+amazing!" alt="Footer" />
-
-  <br/>
-
-  **`< Built with 💜 and mass amounts of caffeine />`**
-
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=3&section=header"/>
-
-  </div>
